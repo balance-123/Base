@@ -1,0 +1,19 @@
+{
+  "name": "balance-base",
+  "version": "1.0.0",
+  "description": "parent class for vue.js animation",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balance-123/balance-base.git"
+  },
+  "author": "35d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balance-123/balance-base/issues"
+  },
+  "homepage": "https://github.com/balance-123/balance-base#readme"
+}
